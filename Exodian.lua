@@ -21,8 +21,8 @@ getgenv().Exodian = {}
 
 --// Load Modules
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Exodian/main/Modules/Aimbot.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Exodian/main/Modules/Wall%20Hack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoBit69/Exodian/main/Aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoBit69/Exodian/main/Wall%20Hack.lua"))()
 
 --// Variables
 
