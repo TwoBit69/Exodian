@@ -1,8 +1,7 @@
 --[[
 
-	Exodian by Exunys © CC0 1.0 Universal (2023)
+	Exodian by twobitencoded © CC0 1.0 Universal (2023)
 
-	https://github.com/Exunys
 
 ]]
 
